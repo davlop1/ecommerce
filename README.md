@@ -42,3 +42,4 @@ STRIPE_PUBLISHABLE_KEY=
 - Stripe checkout
 # ecommerce
 # ecommerce
+# ecommerce
