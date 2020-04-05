@@ -41,3 +41,4 @@ STRIPE_PUBLISHABLE_KEY=
 - Authentication via Moltin (Login and Register)
 - Stripe checkout
 # ecommerce
+# ecommerce
